@@ -1,0 +1,8 @@
+^BUILD$
+^.mbed$
+^compile_commands.json$
+^.clangd$
+^.cache$
+^mbed-os$
+^shields/TARGET_CORDIO_BLUENRG$
+^mbed-mqtt$
