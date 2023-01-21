@@ -16,12 +16,6 @@
     </tr>
 </table>
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <p align="center">
     <img src="https://img.shields.io/badge/C++-blue">
     <img src="https://img.shields.io/badge/MQTT-blue">
